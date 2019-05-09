@@ -1,0 +1,12 @@
+
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Á¾ç²üÿÿÿÿ8åÿŒÇ©-
+Gsquid:S1168"+Return an empty collection instead of null.(¥¹ï8åÿŒÇ©-
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜¦Şü8åÿŒÇ©-
+squid:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(«—˜ï8åÿŒÇ©-
+tsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù¡‡8åÿŒÇ©-
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(îÜĞ¡8åÿŒÇ©-
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(úğÓá8åÿŒÇ©-
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÃÆ—8åÿŒÇ©-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆ°Â±úÿÿÿÿ8åÿŒÇ©-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡á‡ùÿÿÿÿ8åÿŒÇ©-
+_squid:S1155">Use isEmpty() to check whether the collection is empty or not.(´şÄ’ûÿÿÿÿ8åÿŒÇ©-
